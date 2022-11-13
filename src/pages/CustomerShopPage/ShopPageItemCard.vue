@@ -1,5 +1,5 @@
 <template>
-  <div class="w-64 mx-4 rounded-lg overflow-hidden bg-white shadow-lg cursor-pointer transition-all ease-in-out duration-200 hover:shadow-md hover:scale-95">
+  <div class="w-64 mx-4 mb-5 flex-shrink-0 rounded-lg overflow-hidden bg-white shadow-lg cursor-pointer transition-all ease-in-out duration-200 hover:shadow-md hover:scale-95">
     <img class="w-64" src="https://picsum.photos/200">
     <div class="px-6 py-4">
       <div class="font-bold text-lg">{{ title }}</div>
