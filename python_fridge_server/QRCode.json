@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Banana",
+        "ProductionDate": "2022-11-20",
+        "ExpirationDate": "2022-11-12",
+        "OriginalFrom": "BornPlace1",
+        "Storage_Condition": "Put in Cool Places",
+        "Product_Description": "Yellow & Yammy",
+        "Index": "0142",
+        "Additionals": ""
+    },
+    {
+        "Name": "Apple",
+        "ProductionDate": "2019-05-20",
+        "ExpirationDate": "2019-06-20",
+        "OriginalFrom": "BornPlace2",
+        "Storage_Condition": "",
+        "Product_Description": "Red & Yammy",
+        "Index": "0143",
+        "Additionals": ""
+    },
+    {
+        "Name": "Orange",
+        "ProductionDate": "2023-12-20",
+        "ExpirationDate": "2024-12-20",
+        "OriginalFrom": "BornPlace3",
+        "Storage_Condition": "",
+        "Product_Description": "Orange & Yammy",
+        "Index": "0144",
+        "Additionals": ""
+    },
+    {
+        "Name": "Mango",
+        "ProductionDate": "",
+        "ExpirationDate": "2022-11-13",
+        "OriginalFrom": "",
+        "Storage_Condition": "",
+        "Product_Description": "",
+        "Index": "",
+        "Additionals": ""
+    }
+]
