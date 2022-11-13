@@ -1,8 +1,6 @@
 <template>
   <NavBar />
   <CustomerShopPage />
-
-  <!-- <button @click.native="testabc">FUCKKK</button> -->
 </template>
 
 
@@ -10,6 +8,7 @@
 import NavBar from '@/components/navbar/NavBar.vue'
 import CustomerShopPage from '@/pages/CustomerShopPage/index.vue'
 import CustomerProductPage from '@/pages/CustomerProductPage/index.vue'
+import SellerAddBatchPage from '@/pages/SellerAddBatchPage/index.vue'
 
 export default {
   name: 'App', 
@@ -17,6 +16,7 @@ export default {
     NavBar,
     CustomerShopPage,
     CustomerProductPage,
+    SellerAddBatchPage,
   },
   methods: {
     testabc: async function() {
