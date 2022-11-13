@@ -5,13 +5,13 @@
       <Logo inverted />
       <NavBarProfile />
 
-      <ul class="space-y-0">
-        <NavBarItem text="Home" icon="fa-duotone fa-home" />
-        <NavBarItem text="Shop" icon="fa-duotone fa-cart-shopping" />
-        <NavBarItem text="Fridge" icon="fa-duotone fa-fork-knife" />
-        <NavBarItem text="Scan" icon="fa-duotone fa-scanner-gun" />
-        <NavBarItem text="Trees" icon="fa-duotone fa-trees" />
-        <NavBarItem text="Settings" icon="fa-duotone fa-sliders" />
+      <ul class="space-y-1">
+        <NavBarItem text="Home" dest="/" icon="fa-duotone fa-home" />
+        <NavBarItem text="Shop" dest="/shop" icon="fa-duotone fa-cart-shopping" />
+        <NavBarItem text="Fridge" dest="/fridge" icon="fa-duotone fa-fork-knife" />
+        <NavBarItem text="Scan" dest="/scan" icon="fa-duotone fa-scanner-gun" />
+        <NavBarItem text="Trees" dest="/trees" icon="fa-duotone fa-trees" />
+        <NavBarItem text="Settings" dest="/settings" icon="fa-duotone fa-sliders" />
       </ul>
    </div>
   </section>
