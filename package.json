@@ -1,0 +1,28 @@
+{
+  "name": "save-food",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-pro": "^6.2.0",
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/pro-duotone-svg-icons": "^6.2.0",
+    "@fortawesome/pro-regular-svg-icons": "^6.2.0",
+    "@fortawesome/pro-solid-svg-icons": "^6.2.0",
+    "@fortawesome/vue-fontawesome": "^3.0.2",
+    "flowbite": "^1.5.3",
+    "vue": "^3.2.41",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.2",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4",
+    "vite": "^3.1.8"
+  }
+}
